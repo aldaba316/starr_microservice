@@ -1,0 +1,1 @@
+export const repairActions = [ 'Replace', 'Reinsert', 'Analysis', 'Retry', 'Reset', 'Relocalization', 'Config', 'Bad Assembly' ];

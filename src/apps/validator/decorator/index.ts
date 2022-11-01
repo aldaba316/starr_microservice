@@ -1,0 +1,1 @@
+export { ValidatorVersion } from './Validator.decorator';

@@ -1,0 +1,1 @@
+export { QuickTestValidatorController } from './Validator.controller';
